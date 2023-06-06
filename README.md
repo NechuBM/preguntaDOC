@@ -1,9 +1,9 @@
 
 # 📚🗨️  preguntaDOC: Convierte tus documentos en conversaciones con chatGPT
 
-:link: [Web]()
+:link: [Web demo](https://nechubm-preguntadoc-app-tutorial-ct21ps.streamlit.app/)
 
-[Tutorial en Español | Youtube](https://youtu.be/iDrpdkIHMq8)
+🚀 [Tutorial en Español | Youtube](https://youtu.be/iDrpdkIHMq8)
 
 ¿Sabías que chatGPT puede tener conversaciones con documentos? ¡En este taller de Python, descubriremos cómo hacerlo posible! Olvídate de las limitaciones, ahora podrás chatear y explorar tus documentos de una manera completamente nueva.
 
