@@ -3,3 +3,4 @@ langchain
 faiss-cpu
 streamlit
 PyPDF2
+sentence-transformers
