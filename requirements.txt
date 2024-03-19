@@ -1,5 +1,6 @@
-openai
-langchain
-faiss-cpu
-streamlit
-PyPDF2
+openai==0.28.1
+langchain==0.0.324
+faiss-cpu==1.7.4
+streamlit==1.28.0
+PyPDF2==3.0.1
+sentence-transformers==2.2.2
